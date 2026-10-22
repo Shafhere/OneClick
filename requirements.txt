@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+groq
+requests
+beautifulsoup4
+lxml
+chromadb
+streamlit
